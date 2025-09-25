@@ -7,7 +7,7 @@ int main() {
 	printf("Geef een getal: ");
 	scanf_s("%d", &getal);
 
-	printf("Maak een keuze: Wil je **2 (1) of **2 (2) ");
+	printf("Maak een keuze: Wil je **2 (1) of **3 (2) ");
 	scanf_s("%d", &keuze);
 
 	if (keuze == 1) {
